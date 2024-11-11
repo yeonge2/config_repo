@@ -1,5 +1,0 @@
-service:  
- name: "Service A - Production Environment"  
-logging:  
- level:  
-  root: WARN
